@@ -1,0 +1,11 @@
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\netcoreapp2.0\EntityFrameWorkAssignment.deps.json
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\netcoreapp2.0\EntityFrameWorkAssignment.runtimeconfig.json
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\netcoreapp2.0\EntityFrameWorkAssignment.runtimeconfig.dev.json
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\netcoreapp2.0\EntityFrameWorkAssignment.dll
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.csprojAssemblyReference.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.AssemblyInfoInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.AssemblyInfo.cs
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\netcoreapp2.0\EntityFrameWorkAssignment.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.dll
+C:\Users\Dhanusha.Kommineni\source\repos\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\netcoreapp2.0\EntityFrameWorkAssignment.pdb
